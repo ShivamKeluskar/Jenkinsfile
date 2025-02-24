@@ -1,7 +1,7 @@
 node {
     try {
         stage('Checkout') {
-            git 'https://github.com/your-repo/java-app.git'  // Replace with actual repo                     
+            git 'https://github.com/ShivamKeluskar/Jenkinsfile.git'  // Replace with actual repo                     
                                                                                         URL
         }
 
